@@ -1,0 +1,26 @@
+Subject: Çalışan Gönüllülüğü İş Birliği Önerisi — {{ngo_name}}
+
+Sayın {{company_name}} Yetkilisi,
+
+{{ngo_name}} olarak, 10 yılı aşkın saha deneyimimizi 2024'te kurduğumuz dernek çatısı altında kurumsallaştırarak çocukların eğitim olanaklarına erişimini güçlendiren projeler yürütüyoruz. Bugüne kadar [X] ilde [Y] kütüphane kurduk ve [Z] çocuğa düzenli atölyelerle ulaştık.
+
+Çalışan gönüllülüğü modellerimiz, kurumların CSR ve sürdürülebilirlik takvimine kolayca yerleşecek şekilde tasarlanmıştır:
+
+- **Yarım/Tam Gün Kütüphane Kurulum Etkinlikleri** — Ekibinizle birlikte sahada çocuk kütüphanesi kuruyoruz; kurumunuzun adını taşıyan kalıcı bir sosyal etki bırakıyoruz.
+- **Çocuk Gelişim Atölyeleri** — Çalışanlarınızın bilgi ve becerilerini paylaştığı 2-3 saatlik atölyeler (okuma, kodlama, sanat, kariyer farkındalığı).
+- **Skills-based Mentörlük Programı** — Uzun vadeli, çevrimiçi destekli mentörlük modeli; özellikle yıllık 2-3 gün gönüllülük izni tanıyan kurumlar için uygun.
+
+Üç modelin tamamı için ölçülebilir etki raporu, görsel içerik ve iletişim materyali sunuyor; kurumunuzun yıllık sürdürülebilirlik raporuna doğrudan veri sağlıyoruz.
+
+Önümüzdeki 2 hafta içinde 30 dakikalık bir online tanışma toplantısı için uygunluğunuzu paylaşırsanız memnun oluruz. Tercih ederseniz aşağıdaki iki zaman aralığından da seçim yapabilirsiniz: [Tarih 1, saat aralığı] veya [Tarih 2, saat aralığı].
+
+Vaktiniz ve değerlendirmeniz için teşekkür ederiz.
+
+Saygılarımızla,
+[Adınız Soyadınız]
+[Unvanınız], {{ngo_name}}
+{{ngo_email}} | [Telefon]
+{{ngo_url}}
+
+---
+Bu iletiyi almak istemiyorsanız "Listemden çıkar" yanıtı yeterli olacaktır.

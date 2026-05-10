@@ -1,0 +1,35 @@
+# SMTP / config dosyaları — ASLA commit etmeyin
+.env
+.env.*
+.env.local
+.env.production
+# İstisna: .env.example şablon olduğu için commit edilir
+!.env.example
+
+# Editor swap / backup files (parola yazılırken oluşabilir)
+*.swp
+*.swo
+*~
+.*.swp
+.*.swo
+
+# Gönderim logu — alıcı listesi içerir, repo'da paylaşılmamalı
+send_log.csv
+
+# Hassas veri (kurumsal alıcı listesi) — public repo'da paylaşılmamalı
+recipients.csv
+recipients_missing.csv
+ŞirketlerListesi.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/

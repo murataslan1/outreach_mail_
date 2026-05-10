@@ -1,0 +1,28 @@
+Subject: {{company_name}} Gönüllülük Günü için iş birliği önerisi — {{ngo_name}}
+
+Sayın {{birim}} Ekibi,
+
+{{program}} kapsamında çalışanlarınıza tanınan ücretli gönüllülük günleri çerçevesinde, çocukların eğitim olanaklarına erişimini destekleyen bir saha etkinliği önerimizi paylaşmak isterim.
+
+{{ngo_name}} olarak son 10 yılda kütüphane kurulumları ve çocuklara yönelik gelişim atölyeleri yürüten bir gönüllü ekibiz. Dernek çatımız altında, uzun vadeli sosyal etki üreten projeler tasarlıyoruz; bugüne kadar [X] ilde [Y] kütüphane kurduk ve [Z] çocuğa düzenli atölyelerle ulaştık.
+
+{{company_name}} için uygun olabilecek 3 iş birliği formatı:
+
+• 1 günlük kütüphane kurulum etkinliği — çalışan katılımına uygun saha günü
+• Çocuklara yönelik gelişim atölyesi — beceri bazlı gönüllülük formatı
+• Uzun vadeli proje ortaklığı — yıllık planlama ile sürdürülebilir etki
+
+{{donem_sentence}}
+
+Önümüzdeki 2-3 hafta içinde 30 dakikalık kısa bir online görüşme için uygun bir zaman önerebilir misiniz? Çalışmalarımızı ve uyumlu olabilecek iş birliği alanlarını birlikte değerlendirmekten memnuniyet duyarız.
+
+Vaktiniz ve değerlendirmeniz için teşekkür ederiz.
+
+Saygılarımızla,
+[Adınız Soyadınız]
+[Unvanınız], {{ngo_name}}
+{{ngo_email}} | [Telefon]
+{{ngo_url}}
+
+---
+Bu iletiyi almak istemiyorsanız "Listemden çıkar" yanıtı yeterli olacaktır.

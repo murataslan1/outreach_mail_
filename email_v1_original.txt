@@ -1,0 +1,21 @@
+Subject: İş Birliği Önerisi — {{ngo_name}}
+
+Sayın {{company_name}} Yetkilisi,
+
+Merhaba,
+
+{{ngo_name}} olarak, 10 yılı aşkın gönüllülük deneyimimizi dernek çatısı altında sürdürerek çocukların eğitim olanaklarına erişimini destekleyen projeler yürütüyoruz. Özellikle kütüphane kurulumları ve çocuklara yönelik gelişim atölyeleriyle uzun vadeli sosyal etki yaratmayı hedefliyoruz.
+
+Kurumunuzun sosyal sorumluluk ve sürdürülebilirlik öncelikleriyle kesişebilecek, çalışan katılımını da destekleyen iş birliği modellerini birlikte değerlendirmek isteriz. Bu süreci yalnızca bir destek talebi olarak değil, ortak sosyal fayda üretebileceğimiz bir iş birliği zemini olarak görüyoruz.
+
+Uygun görmeniz halinde, kısa bir tanışma toplantısında çalışmalarımızı ve olası iş birliği alanlarını paylaşmaktan memnuniyet duyarız.
+
+Vaktiniz ve değerlendirmeniz için teşekkür ederiz.
+
+Saygılarımızla,
+{{ngo_name}}
+İletişim: {{ngo_email}}
+Web Sitesi: {{ngo_url}}
+
+---
+Bu iletiyi almak istemiyorsanız "Listemden çıkar" yanıtı yeterli olacaktır.
